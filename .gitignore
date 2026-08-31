@@ -1,0 +1,25 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Confidential or generated project material
+data/
+outputs/
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.twb
+*.twbx
+*.hyper
+*.pdf
+*.pptx
+*.docx
+*.mp4
+
+# Notebook execution artifacts
+.ipynb_checkpoints/
