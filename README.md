@@ -2,7 +2,7 @@
 
 I worked on this project to answer a practical question: **when a company loses a sealed bid, who is it really competing against—and how close was the loss?**
 
-This began as a team live case during my MS in Business Analytics at the University of Minnesota. We worked with a regional road-construction company and analyzed its 2024–2025 bidding history. My work covered data cleaning, bidder-name standardization, analysis-ready table design, competitor metrics, bid-margin analysis, and dashboard-ready outputs.
+This began as a team live case during my MS in Business Analytics at the University of Minnesota. We analyzed a construction-sector company's historical sealed-bid records. My work covered data cleaning, bidder-name standardization, analysis-ready table design, competitor metrics, bid-margin analysis, and dashboard-ready outputs.
 
 The original engagement was confidential, so I have not published the client data, company names, exact findings, reports, or Tableau workbooks. This repository implements the analytical methods as reusable Python code with invented test records.
 
